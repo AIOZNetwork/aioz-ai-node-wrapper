@@ -34,6 +34,11 @@ Some args:
 - `-p`: Local server port (default: 1111).
 - `-i`: Display current node information.
 - `-v`: Display the current version of the wrapper file.
+- `--node_info`: Retrieve node information from the Server.
+- `--balance`: Retrieve the current wallet balance associated with the node.
+- `--withdraw`: Withdraw available balance to the registered wallet.
+- `--storage`: Retrieve current storage configuration and usage of the node from the Server.
+- `--update_storage`: Update allocated storage capacity for the node.
 or use "--help" for more information
 
 ### Operational example
