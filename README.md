@@ -72,12 +72,3 @@ Run Node with default configuration:
 ```
 NOTE: When transmitting `-dc -1`, it is considered as not providing capacity to the node.
 
-# License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-  <img alt="License Creative Commons " style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-</a><br />
-This repo is shared with terms of 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-  Creative Commons Attribution 4.0 International (CC BY 4.0)
-</a> @ <a rel="author" href="https://ai.aioz.io/"> AIOZ Pte Ltd </a>
